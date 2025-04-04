@@ -26,7 +26,7 @@ Open Intune | Alt + o | Copys intunewin file link to the clipboard and opens the
 Quiet mode | -q | Run in 'quiet mode'. If the output file already exists, it will be overwritten. 
 Copy | Alt + c | Copy the displayed output to the clipboard.
 Exit | Alt + x | Exit the application
-![Screenshot](images/help.png?raw=true) | | Display GUI and command line help
+![Screenshot](images/Help.png?raw=true) | | Display GUI and command line help
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
