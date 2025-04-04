@@ -7,7 +7,7 @@ This GUI has been written to allow you to quickly assemble and execute the `Intu
 ![Screenshot](images/Interface.png?raw=true)
 
 # Getting Started
-To get started, you can either download and execute the `pXLabs MS Win32 Prep Tool GUI.ps1` script or grab the compiled executable in Releases.
+To get started, you can either download and execute the `pXLabs MS Win32 Prep Tool GUI.ps1` script or grab the compiled executable in [Releases](https://github.com/phriendx/pXWin32ContentPrepGUI/releases).
 
 ## Prerequisites
 * Powershell 5.1
