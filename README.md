@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-# pXLabs MS Win32 Prep Tool GUI
+# pXLabs Win32 Content Prep GUI
 
 This GUI has been written to allow you to quickly assemble and execute the `IntuneWinAppUtil.exe` command without the need to type or copy and paste the parameters needed to create an Intune `Windows app (Win32)` application.
 
